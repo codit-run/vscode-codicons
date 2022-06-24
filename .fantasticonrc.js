@@ -7,7 +7,7 @@ module.exports = {
     codepoints: codepoints,
     inputDir: './src/icons',
     outputDir: './dist',
-    fontTypes: ['ttf'],
+    fontTypes: ['ttf', 'woff', 'woff2'],
     normalize: true,
     assetTypes: ['css', 'html'],
     templates: {
